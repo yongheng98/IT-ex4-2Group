@@ -14,7 +14,10 @@
 [菜鸟教程](https://www.runoob.com/markdown/md-link.html)
 
 
+由于安全问题？GitHub目前不支持base64图片
 ![PngTest][base64str]
+
+
 
 
 
