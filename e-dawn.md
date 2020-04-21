@@ -18,6 +18,8 @@
 ![PngTest][base64str]
 
 
+通过直接上传图片并引用连接，可以显示
+![png](https://github.com/yongheng98/IT-ex4-2Group/blob/e-dawn/test1.jpg?raw=true)
 
 
 
